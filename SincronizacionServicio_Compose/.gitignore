@@ -1,0 +1,22 @@
+# Archivos de compilación de Gradle
+.gradle/
+build/
+**/build/
+
+# Configuración del entorno local (claves, rutas de SDK)
+local.properties
+
+# Archivos de proyecto e IDE (Android Studio / IntelliJ)
+.idea/
+*.iml
+
+# Archivos generados por NDK / C++ (si aplicara)
+.cxx/
+.externalNativeBuild/
+
+# Capturas e informes de rendimiento
+/captures/
+
+# Archivos del sistema operativo
+.DS_Store
+Thumbs.db
